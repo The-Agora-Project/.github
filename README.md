@@ -1,2 +1,2 @@
 # GitHub Profile
-This is the README profile for this organization.
+The repository for the organization profile readme.
